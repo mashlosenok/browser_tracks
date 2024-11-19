@@ -1,4 +1,4 @@
-track name="AI editing sites in exons" description="REDIportal,coding regions,editing(>0.1),AAchange,GTEx,TCGAprj count"
+track name="AI editing sites in exons" description="REDIportal,coding regions,editing(>0.1),AAchange,GTEx,TCGAprj count" filter.score=100
 chr1	999279	999280	N|Q175R|30,29	822	-
 chr1	1014084	1014085	N|K35R|29,32	988	+
 chr1	1264786	1264787	N|Y59C|29,25	1000	-
