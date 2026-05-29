@@ -8,7 +8,7 @@ Tracklines for BigBed:
 
 Annotations:
 * CHESS
-* StringTie - built from GTEx and TCGA and NMD inhibition data
+* StringTie - built from GTEx and TCGA and NMD inhibition data (Lev.novel_ORF are predicted stop and start codons)
 
 Barcharts of site-specific psi values for each tissue:
 
